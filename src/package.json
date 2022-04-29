@@ -1,0 +1,22 @@
+{
+  "name": "nathan-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsmith12345/Nathan-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsmith12345/Nathan-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/nsmith12345/Nathan-Team-Profile-Generator#readme"
+}
