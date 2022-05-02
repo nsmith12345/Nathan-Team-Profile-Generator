@@ -37,7 +37,7 @@ Jest
 Inquirer
 
 Website Link:
-
+https://nsmith12345.github.io/Nathan-Team-Profile-Generator/
 
 Walkthrough Video Link:
 
